@@ -6,7 +6,7 @@ This repository holds a script which follows the Machine Learning Lifecycle to d
 
 
 The training and test datasets consist of 19237 and 8245 records respectively. They contain the following features: 
-Attributes
+Attributes <br>
 ID
 Price: price of the care(Target Column)
 Levy
