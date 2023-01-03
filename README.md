@@ -7,23 +7,24 @@ This repository holds a script which follows the Machine Learning Lifecycle to d
 
 The training and test datasets consist of 19237 and 8245 records respectively. They contain the following features: 
 Attributes <br>
-ID
-Price: price of the care(Target Column)
-Levy
-Manufacturer
-Model
-Prod. year
-Category
-Leather interior
-Fuel type
-Engine volume
-Mileage
-Cylinders
-Gear box type
-Drive wheels
-Doors
-Wheel
-Color
-Airbags
-
+ID <br>
+Price: price of the care(Target Column) <br>
+Levy <br>
+Manufacturer  <br>
+Model <br>
+Prod. year <br>
+Category <br>
+Leather interior <br>
+Fuel type <br>
+Engine volume <br>
+Mileage <br>
+Cylinders <br>
+Gear box type <br>
+Drive wheels <br>
+Doors <br>
+Wheel <br>
+Color <br>
+Airbags <br>
+ 
+ <br>
 The dataset can be downloaded from https://www.kaggle.com/datasets/sidharth178/car-prices-dataset 
