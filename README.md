@@ -1,7 +1,9 @@
 # Machine Learning Car-Price-Prediction
 ## Predicting Car Prices using Machine and Deep learning
 
-This repository holds a script which follows the Machine Learning Lifecycle to develop numerous algorithms which are designed to accuratly predict car prices. 
+This repository holds a script which follows the Machine Learning Lifecycle to develop numerous algorithms which are designed to predict car prices. 
+
+
 
 The training and test datasets consist of 19237 and 8245 records respectively. They contain the following features: 
 Attributes
